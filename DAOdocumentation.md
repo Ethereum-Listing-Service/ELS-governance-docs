@@ -42,11 +42,23 @@ Users are required to stake ELS tokens when creating a post on the platform. The
 **Incentives and Rewards:**   
 ELS tokens can be distributed as rewards to users who actively participate in community governance, contribute valuable content, or report non-compliant content. This incentivizes users to contribute positively to the platform and maintain a healthy ecosystem.  
 
+## Initial Distribution Method  
+  
+The initial distribution of ELS tokens can be done through a combination of methods, ensuring a fair and widespread distribution among interested participants:  
 
+**Airdrop:**  
+A portion of the ELS tokens can be airdropped to users who have demonstrated interest in the project and have actively participated in the community. This can help attract a wide range of users to the platform and kickstart the ecosystem.
+  
+**Initial Coin Offering (ICO):**  
+ELS can conduct an ICO to distribute a portion of the tokens to early investors. This method allows the project to raise funds for development, marketing, and operational costs, while also providing early supporters with an opportunity to participate in the project.
 
+**Initial Exchange Offering (IEO):**  
+An IEO can be held on one or more cryptocurrency exchanges to distribute ELS tokens to a broader audience. By listing the token on reputable exchanges, ELS can increase its visibility and attract more users to the platform.
 
-
-
+**Community Grants and Partnerships:**
+ELS can allocate a portion of the tokens to fund community grants and partnerships, encouraging developers and organizations to build applications and integrations with the ELS protocol. This can help expand the use cases and adoption of the ELS ecosystem.
+  
+By employing a combination of these distribution methods, ELS can ensure a wide and fair token distribution, fostering a robust and engaged community.
 
 
 
@@ -54,17 +66,23 @@ ELS tokens can be distributed as rewards to users who actively participate in co
 The ELS DAO governance process is as follows:
 
 1. **Create Proposal:**   
-Community members create governance proposals and submit them to the ELS DAO.    
+Community members create governance proposals and submit them to the ELS DAO.  
+
 2. **Proposal On-Chain:**   
 The proposal is recorded on the blockchain to ensure its immutability.    
+
 3. **Community Voting:**   
-ELS DAO members vote on the proposal, expressing their support or opposition.    
+ELS DAO members vote on the proposal, expressing their support or opposition.   
+
 4. **Zero-Knowledge Proof Generation:**   
 The voting results are generated through a zk-verifier, ensuring the results' authenticity and verifiability.    
+
 5. **Verify Voting Results:**   
-The zk-verifier validates the zero-knowledge proof on-chain, ensuring the voting results are genuine.    
+The zk-verifier validates the zero-knowledge proof on-chain, ensuring the voting results are genuine.   
+
 6. **Update Governance Status:**   
 Based on the validated voting results, the ELS DAO's governance status is updated accordingly.    
+
 7. **Execute Proposal:**   
 If the proposal receives sufficient support, the proposed changes are executed and take effect.    
 
