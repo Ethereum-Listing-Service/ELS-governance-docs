@@ -74,4 +74,14 @@ A virtuous cycle within the ELS community improves its reputation, attracting mo
   
 In summary, by implementing the staking mechanism, ELS aims to create a healthy, orderly communication environment that encourages the posting of high-quality content and promotes a virtuous cycle within the community.
 
+  
+## Security and Zero-Knowledge Proofs <a name="security-zkp"></a>  
+ELS DAO management includes two essential components to ensure its decentralization and security:  
 
+1. **Governance voting validation using zk-verifier:**   
+ELS's governance contract integrates a zero-knowledge proof (zk) verifier to validate the community voting results provided by the oracle. By leveraging zero-knowledge proofs to obtain proposal voting results, we ensure a more decentralized voting process without centralized methods such as snapshot. 
+  
+2. **Distinguishing official and unofficial retailers with zero-knowledge proofs:**    
+ELS employs zero-knowledge proof technology to create a prover on the front-end, differentiating between official and unofficial retailers. By utilizing zero-knowledge proofs, ELS allows users to identify trustworthy official retailers while maintaining content integrity and authenticity.  
+  
+The combination of these two components results in a more secure, transparent, and decentralized ELS DAO management, offering users a higher level of trust and an improved overall experience.
