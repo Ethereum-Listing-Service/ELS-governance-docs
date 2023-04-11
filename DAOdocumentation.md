@@ -1,4 +1,4 @@
-## ELS DAO Documentation
+# ELS DAO Documentation
   
 ### Table of Contents
   
@@ -28,17 +28,50 @@ ELS has created ERC-6150, a hierarchical B+ tree-like structure for NFTs, enabli
 ## Governance Process <a name="governance-process"></a>
 The ELS DAO governance process is as follows:
 
-**Create Proposal:**   
-Community members create governance proposals and submit them to the ELS DAO.  
-**Proposal On-Chain:**   
-The proposal is recorded on the blockchain to ensure its immutability.  
-**Community Voting:**   
-ELS DAO members vote on the proposal, expressing their support or opposition.  
-**Zero-Knowledge Proof Generation:**   
-The voting results are generated through a zk-verifier, ensuring the results' authenticity and verifiability.  
-**Verify Voting Results:**   
-The zk-verifier validates the zero-knowledge proof on-chain, ensuring the voting results are genuine.  
-**Update Governance Status:**   
-Based on the validated voting results, the ELS DAO's governance status is updated accordingly.  
-**Execute Proposal:**   
-If the proposal receives sufficient support, the proposed changes are executed and take effect.  
+1. **Create Proposal:**   
+Community members create governance proposals and submit them to the ELS DAO.    
+2. **Proposal On-Chain:**   
+The proposal is recorded on the blockchain to ensure its immutability.    
+3. **Community Voting:**   
+ELS DAO members vote on the proposal, expressing their support or opposition.    
+4. **Zero-Knowledge Proof Generation:**   
+The voting results are generated through a zk-verifier, ensuring the results' authenticity and verifiability.    
+5. **Verify Voting Results:**   
+The zk-verifier validates the zero-knowledge proof on-chain, ensuring the voting results are genuine.    
+6. **Update Governance Status:**   
+Based on the validated voting results, the ELS DAO's governance status is updated accordingly.    
+7. **Execute Proposal:**   
+If the proposal receives sufficient support, the proposed changes are executed and take effect.    
+
+
+## Staking Mechanism <a name="staking-mechanism"></a>
+To ensure the compliance of ELS community content and incentivize users to adhere to community guidelines, the ELS DAO implements a staking mechanism based on the ELS token. The staking mechanism is detailed as follows:
+
+1. Users are required to stake a certain amount of ELS tokens in the ELS DAO's pool when posting content. The purpose of staking is to encourage users to post compliant content and follow community guidelines.
+2. If five (exact number to be determined) whistleblowers report and successfully prove that a post contains inappropriate content, such as child pornography, organ trafficking, or drug dealing, the user who posted the content will have their staked ELS tokens confiscated.
+3. The confiscated ELS tokens will be distributed evenly among the whistleblowers as a reward. This mechanism aims to encourage users to actively monitor and report non-compliant content, maintaining a healthy community environment.
+
+If, after investigation, the content is deemed compliant, the staked ELS tokens will be returned to the user who posted the content.
+By implementing this staking mechanism, the ELS DAO aims to encourage users to follow community guidelines, reduce the spread of illegal and immoral content, and foster a healthy, orderly environment.
+  
+## Virtuous Cycle <a name="virtuous-cycle"></a>
+By implementing the ELS (Ethereum Listing Service) staking mechanism, we aim to promote a virtuous cycle within the community. The following are ways to achieve a virtuous cycle through the staking mechanism:
+
+1. **Incentivize Compliant Content:**  
+By requiring users to stake ELS tokens when posting content, they are encouraged to post high-quality, compliant content. Users can only reclaim their staked tokens if the content is deemed compliant.
+  
+2. **Reduce Harmful Information:**  
+The staking mechanism increases the cost of posting harmful content, reducing the likelihood of spreading illegal and immoral content.  
+
+3. **Community Self-Monitoring:**  
+By rewarding whistleblowers, the system encourages community members to actively participate in monitoring and reporting non-compliant content. This self-monitoring helps maintain community order and safety.  
+
+4. **Protect Vulnerable Groups:**  
+By combating harmful content, such as child pornography, organ trafficking, and drug dealing, the ELS DAO helps protect the rights of vulnerable groups and uphold social justice and fairness.  
+  
+5. **Establish Trust and Reputation:**  
+A virtuous cycle within the ELS community improves its reputation, attracting more users and encouraging existing users to value and trust the community.  
+  
+In summary, by implementing the staking mechanism, ELS aims to create a healthy, orderly communication environment that encourages the posting of high-quality content and promotes a virtuous cycle within the community.
+
+
