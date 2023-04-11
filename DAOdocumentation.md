@@ -14,16 +14,41 @@
 **-Conclusion**  
 
 ## Introduction <a name="introduction"></a>
+
 ELS (Ethereum Listing Service) is a decentralized on-chain listing service protocol built on Ethereum. 
 Its mission is to address current market issues, such as information opacity, low trust, and disorganized classification, 
 by creating a more transparent, secure, and efficient information management system. ELS offers a streamlined, permissionless, 
 and community-governed platform for organizing and accessing information, tackling information disarray 
 and ineffective categorization within the blockchain ecosystem.
   
+  
+  
 ## ELS Architecture <a name="architecture"></a>
+
 ELS has created ERC-6150, a hierarchical B+ tree-like structure for NFTs, enabling the dynamic representation of multiple information categories directly through smart contracts. This feature allows users to effortlessly locate the information they need, without worrying about navigating complex directories. Moreover, the Decentralized Autonomous Organization (DAO) is in charge of proposing and approving new categories, as well as managing any invalid information to ensure a transparent and equitable ecosystem. This robust framework promotes user participation and enables the community to play a significant role in the platform's operations.
 
-## ELS Token Utility and Distribution <a name="token-utility"></a>
+
+
+## ELS Token Utility and Distribution <a name="token-utility"></a>  
+
+The ELS token plays a crucial role in the ELS ecosystem, serving multiple purposes and providing various utilities. Below are the primary functions and use cases of the ELS token:  
+  
+**Governance:**  
+ELS token holders can participate in the platform's decision-making process by voting on proposals and updates. This allows the community to have a direct influence on the platform's development and direction.
+  
+**Staking:**  
+Users are required to stake ELS tokens when creating a post on the platform. The staking mechanism helps ensure content quality and adherence to community guidelines. Users can retrieve their staked tokens if their content is deemed compliant, while tokens from non-compliant content may be confiscated and distributed among users who reported the content.  
+  
+**Incentives and Rewards:**   
+ELS tokens can be distributed as rewards to users who actively participate in community governance, contribute valuable content, or report non-compliant content. This incentivizes users to contribute positively to the platform and maintain a healthy ecosystem.  
+
+
+
+
+
+
+
+
 
 ## Governance Process <a name="governance-process"></a>
 The ELS DAO governance process is as follows:
