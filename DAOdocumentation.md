@@ -105,4 +105,7 @@ ELS can serve as a decentralized platform for sharing and accessing various type
 5.**Job Listing Platforms:**  
 ELS can be used to post job listings in a decentralized manner, ensuring that employers and job seekers can connect without the need for a centralized authority or platform.    
   
-
+## Future Developments <a name="future-developments"></a>  
+As the volume of listing data grows, ELS plans to move its storage from the L1 smart contract to more scalable storage solutions, such as Ethereum native storage layer, EthStorage, or IPFS. The category structure and DAO governance will remain on Ethereum L1 to ensure the platform's decentralization.  
+  
+In conclusion, ELS (Ethereum Listing Service) is a decentralized on-chain listing protocol that addresses the challenges of information organization and access on the blockchain. By leveraging ERC-6150, its custom hierarchical B+ tree-like structure, community-driven governance, and a wide range of applications, ELS aspires to make a lasting impact on the Ethereum ecosystem and drive the future of decentralization.  
