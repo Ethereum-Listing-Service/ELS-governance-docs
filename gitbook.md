@@ -1,1 +1,1 @@
-https://app.gitbook.com/o/qABdj1e5fgqi8218p3rc/s/ILPHw8mzEoWDWVpMUdUQ/~/changes/6/knowledge-base/dao-docs
+https://els-ethereum-listing-service.gitbook.io/untitled/~/changes/zQktepqSOdjm52MoG8nx?r=YgkahFh1svOAakCz8sDc
